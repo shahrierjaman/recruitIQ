@@ -193,6 +193,11 @@ mv ~/Downloads/resume_screening_model ./resume_screening_model
 streamlit run app.py
 ```
 
+```bash
+Get the model 
+https://drive.google.com/file/d/15xDfwtD-fQ1o005XvzoCSv8QeTlHnogX/view?usp=sharing
+```
+
 Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
