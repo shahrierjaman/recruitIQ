@@ -1,0 +1,32 @@
+{
+  "tfidf_weight": 0.4,
+  "sbert_weight": 0.6,
+  "sbert_model_name": "all-MiniLM-L6-v2",
+  "tfidf_max_features": 5000,
+  "sample_size": 500,
+  "columns": [
+    "Job Id",
+    "Experience",
+    "Qualifications",
+    "Salary Range",
+    "location",
+    "Country",
+    "latitude",
+    "longitude",
+    "Work Type",
+    "Company Size",
+    "Job Posting Date",
+    "Preference",
+    "Contact Person",
+    "Contact",
+    "Job Title",
+    "Role",
+    "Job Portal",
+    "Job Description",
+    "Benefits",
+    "skills",
+    "Responsibilities",
+    "Company",
+    "Company Profile"
+  ]
+}
